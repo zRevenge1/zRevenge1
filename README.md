@@ -18,5 +18,5 @@
   
 ## Social medias
 
-<a href="https://discord.gg/7X5W5CksWh" target="blank"><img align="center" src="http://beeimg.com/images/e26221563583.png" alt="7X5W5CksWh" height="38" width="40" /></a>
+<a href="https://discord.gg/yT2qAFkr85" target="blank"><img align="center" src="http://beeimg.com/images/e26221563583.png" alt="7X5W5CksWh" height="38" width="40" /></a>
 <a href="https://github.com/zRevenge1" target="blank"><img align="center" src="https://rajlab.org/icons/github_white.png" alt="github" height="38" width="40" /></a>
