@@ -12,9 +12,9 @@
 </div>
   
 ## My Objectives
-- 💧 Im learning Lua in self-educated
-- 🌺 I create scripts with Lua for FiveM servers to improve my level
-- ⚡️ I want to improve my level to learn other languages in the future (C++/C# & Frontend)
+- 💧 Im learning developpement environnement in <self-educated>
+- 🌺 I create scripts in Lua for FiveM servers to improve my level
+- ⚡️ I want to improve my level to learn other languages in the future (C++/C# & Frontend) (btw i train sometimes)
   
 ## Social medias
 
